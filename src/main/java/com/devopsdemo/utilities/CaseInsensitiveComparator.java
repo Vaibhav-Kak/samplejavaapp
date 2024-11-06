@@ -1,4 +1,4 @@
-package com.devopsdemo.utilities; 
+package com.devopsdemo.utilities;
 
 import java.lang.reflect.InvocationTargetException;
 import java.util.Date;
